@@ -1,0 +1,66 @@
+#main-contener{
+	  margin-left:auto;
+    margin-right:auto;
+    width:1200px;
+	
+}
+
+#cartDiv{
+	
+	background-image:url('cart.jpg');
+}
+
+#formularz{
+text-align: center;
+	
+}
+
+#topDiv{
+	border:solid;
+}
+
+#contener2{
+	
+	
+}
+
+
+.rcorners3{
+    border-radius: 25px;
+    background-color:white;
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+}
+
+.rcorners4 {
+    border-radius: 25px;
+    background: url(yellowblue2.jpg);
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px; 
+	width: 280px;
+    box-shadow: 10px 15px 10px;
+}
+
+.katCorn{
+    border-radius: 25px;
+	background-color:white;
+background-position: center;
+    background-repeat: repeat;
+    padding: 20px; 
+box-shadow: 10px 20px 10px;
+   
+}
+
+
+	 #wyszukaj {
+      font-size: 44px;
+	  border: none;
+ }
+	
+	
+	
+
