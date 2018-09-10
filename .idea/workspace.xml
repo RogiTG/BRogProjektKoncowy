@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc6b2029-2e13-40ff-ac28-1d44536a811d" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/../ProjektKońcowyFINAL/out/" />
-    <ignored path="$PROJECT_DIR$/../ProjektKońcowyFINAL/target/" />
+    <ignored path="D:/ProjektKońcowyFINAL/out/" />
+    <ignored path="D:/ProjektKońcowyFINAL/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +14,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../ProjektKońcowyFINAL/pom.xml">
+        <entry file="file://D:/ProjektKońcowyFINAL/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
@@ -80,6 +80,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
@@ -197,7 +198,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../ProjektKońcowyFINAL/pom.xml">
+    <entry file="file://D:/ProjektKońcowyFINAL/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
